@@ -1,0 +1,6 @@
+print(type({}))
+print(type(()))
+print(type([]))
+print(type(1))
+print(type('a'))
+print(type(12.12))
